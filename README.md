@@ -1,7 +1,7 @@
 [![header](https://capsule-render.vercel.app/api?type=soft&color=faf1fa&height=150&section=header&&text=Vuja%20De&fontColor=B409AB&fontSize=60&fontAlignY=40&desc=Discovering%20new%20things%20with%20a%20fresh%20perspective%20in%20familiar%20something&descSize=25&descAlignY=75)](https://github.com/vujadeyoon)
 
 [![Sungjun Yoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=vujadeyoon&hide=prs&count_private=true&show_icons=true)](https://github.com/vujadeyoon)
-[![Most Used Languages](https://github-readme-stats-omega-flax.vercel.app/api/top-langs/?username=vujadeyoon&hide=javascript,html,scss,tex,ruby&langs_count=5&layout=compact)](https://github.com/vujadeyoon)
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vujadeyoon&hide=javascript,html,scss,tex,ruby&langs_count=5&layout=compact)](https://github.com/vujadeyoon)
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vujadeyoon@gmail.com)
 [<img alt="Github Page" src ="https://img.shields.io/badge/GitHub Page-B409AB.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/>](https://vujadeyoon.github.io)
